@@ -22,8 +22,8 @@ The FLEX C Code Tokenizer is designed to analyze C code and identify various lan
 To use the FLEX C Code Tokenizer, follow these steps:
 
 - Clone the repository: git clone https://github.com/Salman1804102/Compiler-Design-Flex-Project.git
-- Navigate to the project directory: cd flex-c-tokenizer
-- Compile the FLEX lexer: flex c_tokenizer.l
+- Navigate to the project directory: cd FlexProject
+- Compile the FLEX lexer: flex lexer.l
 - Compile the generated C code: gcc lex.yy.c -o lexer
 - Run the tokenizer on your C code: lexer.exe or lexer.exe < input
 ## Feature
