@@ -1,0 +1,56 @@
+#include<stdio.h>
+#include<string.h>
+int main() {
+    printf("%s %s %s %s %s %s %s\n", if, then, also, int, char, main, return);
+    int x = 5, y = 10;
+    if (x > y) 
+    {
+        printf("x greater than y");
+    } 
+    else 
+    {
+        printf("x less than y");
+    }
+    int a = 5, b = 3;
+    int sum = a + b;
+    int product = a * b;
+
+    printf("%d\n", sum);
+    printf("%d\n", product);
+
+    int num = 10e-9;
+    num += 5;
+    num -= 3;
+    num *= 2;
+    num /= 4;
+
+    printf("%d\n", num);
+
+    int condition1 = 1;
+    int condition2 = 0;
+
+    if (condition1 && condition2) {
+        printf("Bangldesh");
+    } else if (condition1 || condition2) {
+        printf("CUET");
+    } else {
+        printf("Pahartoli");
+    }
+
+    float val_ = 1.5, val__ = 2.5;
+  
+    int my123Name = myFunc();
+    printf("%d\n", my123Name);
+
+    char text[] = "Go for Good";
+
+    return 0;
+}
+
+int myFunc(int a, int b) {
+    return 10 % 5;
+}
+int newfun(int a, int b)
+{
+
+}
