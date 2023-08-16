@@ -32,7 +32,7 @@ To use the FLEX C Code Tokenizer, follow these steps:
 - **Detailed Results:** The README provides a clear breakdown of the occurrences of different elements, making it easier to analyze the code's structure.
 ## Results
 
-The tokenizer provides detailed results for the given C code. The following output demonstrates the occurrence count for each category.
+The tokenizer provides detailed results for the given C code. The following output demonstrates the occurrence count for each category/<br>
 ![Image 1](https://github.com/Salman1804102/Compiler-Design-Flex-Project/raw/main/Output/img1.PNG)
 ![Image 2](https://github.com/Salman1804102/Compiler-Design-Flex-Project/raw/main/Output/img2.PNG)
 ![Image 3](https://github.com/Salman1804102/Compiler-Design-Flex-Project/raw/main/Output/img3.PNG)
